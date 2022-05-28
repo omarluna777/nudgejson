@@ -10,7 +10,7 @@
       "actionButtonPath": "jamfselfservice://content?entity=policy&id=22&action=execute",
       "majorUpgradeAppPath": "jamfselfservice://content?entity=policy&id=22&action=execute",
       "requiredInstallationDate": "2022-05-20T00:00:00Z",
-      "requiredMinimumOSVersion": 12.4,
+      "requiredMinimumOSVersion": "12.4",
       "targetedOSVersionsRule": "default"
     }
   ],
