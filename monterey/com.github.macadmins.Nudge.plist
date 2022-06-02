@@ -12,7 +12,7 @@
 	<array>
 		<string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
 		<string>-json-url</string>
-		<string>https://raw.githubusercontent.com/omarluna777/nudgejson/main/M1/com.github.macadmins.Nudge.json</string>
+		<string>https://raw.githubusercontent.com/omarluna777/nudgejson/main/monterey/com.github.macadmins.Nudge.json</string>
 		<!-- <string>-demo-mode</string> -->
 	</array>
 	<key>RunAtLoad</key>
