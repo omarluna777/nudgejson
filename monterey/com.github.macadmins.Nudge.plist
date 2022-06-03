@@ -21,10 +21,6 @@
 	<array>
 		<dict>
 			<key>Minute</key>
-			<integer>0</integer>
-		</dict>
-		<dict>
-			<key>Minute</key>
 			<integer>120</integer>
 		</dict>
 	</array>
