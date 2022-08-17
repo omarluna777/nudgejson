@@ -26,8 +26,13 @@
         }
       ],
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
+<<<<<<< HEAD:monterey/com.github.macadmins.Nudge-infosec.json
       "requiredInstallationDate": "2022-09-15T00:00:00Z",
       "requiredMinimumOSVersion": "12.5.1",
+=======
+      "requiredInstallationDate": "2022-07-08T00:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
+>>>>>>> 18991269622d059c62407db62e4a6aa2a88689ce:monterey/com.github.macadmins.Nudge.json
       "targetedOSVersionsRule": "default"
     } 
   ],
